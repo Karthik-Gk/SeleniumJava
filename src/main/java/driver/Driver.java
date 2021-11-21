@@ -9,7 +9,7 @@ import constants.FrameworkConstants;
 
 public class Driver {
 
-	public static WebDriver driver;
+	public static WebDriver driver;  //made static as references used below are static method
 
 	public static void initDriver() 
 	{
@@ -23,7 +23,7 @@ public class Driver {
 
 	public static void quitDriver()
 	{
-		if(Objects.nonNull(driver)) //To check if previous driver is closed or not
+		if(Objects.nonNull(driver)) //To check if previous driver is closed or not, Also can use driver!=null
 		{
 			driver.quit();
 			driver = null;  //Assigning it to null so that initDriver can start correctly
