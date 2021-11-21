@@ -17,6 +17,6 @@ public final class LoginPageTest extends BaseTest{
 	@Test
 	public void test2() 
 	{
-		Driver.driver.findElement(By.name("q")).sendKeys("Testing mini bytes",Keys.ENTER);
+		Driver.driver.findElement(By.name("q")).sendKeys("Selenium",Keys.ENTER);
 	}
 }
