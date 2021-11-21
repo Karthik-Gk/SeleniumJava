@@ -7,6 +7,10 @@ import org.testng.annotations.Test;
 import driver.Driver;
 
 public final class HomepageTest extends BaseTest {
+	
+	private HomepageTest() {
+		
+	}
 
 	@Test
 	public void test3() 

@@ -2,46 +2,46 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-08T09:39:28 IST" name="Suite" finished-at="2021-11-08T09:39:44 IST" duration-ms="16295">
+  <suite started-at="2021-11-21T09:50:17 IST" name="Suite" finished-at="2021-11-21T09:50:37 IST" duration-ms="20320">
     <groups>
     </groups>
-    <test started-at="2021-11-08T09:39:28 IST" name="Test" finished-at="2021-11-08T09:39:44 IST" duration-ms="16295">
+    <test started-at="2021-11-21T09:50:17 IST" name="Test" finished-at="2021-11-21T09:50:37 IST" duration-ms="20320">
       <class name="tests.HomepageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomepageTest@58d75e99]" started-at="2021-11-08T09:39:39 IST" name="setUp" finished-at="2021-11-08T09:39:42 IST" duration-ms="3334" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomepageTest@58d75e99]" started-at="2021-11-21T09:50:31 IST" name="setUp" finished-at="2021-11-21T09:50:34 IST" duration-ms="3447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test3()[pri:0, instance:tests.HomepageTest@58d75e99]" started-at="2021-11-08T09:39:42 IST" name="test3" finished-at="2021-11-08T09:39:44 IST" duration-ms="1563" status="PASS">
+        <test-method signature="test3()[pri:0, instance:tests.HomepageTest@58d75e99]" started-at="2021-11-21T09:50:34 IST" name="test3" finished-at="2021-11-21T09:50:37 IST" duration-ms="2651" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.HomepageTest@58d75e99]" started-at="2021-11-08T09:39:44 IST" name="TearDown" finished-at="2021-11-08T09:39:44 IST" duration-ms="108" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.HomepageTest@58d75e99]" started-at="2021-11-21T09:50:37 IST" name="TearDown" finished-at="2021-11-21T09:50:37 IST" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- tests.HomepageTest -->
       <class name="tests.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-08T09:39:28 IST" name="setUp" finished-at="2021-11-08T09:39:32 IST" duration-ms="4688" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-21T09:50:17 IST" name="setUp" finished-at="2021-11-21T09:50:23 IST" duration-ms="6688" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test1()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-08T09:39:32 IST" name="test1" finished-at="2021-11-08T09:39:34 IST" duration-ms="1956" status="PASS">
+        <test-method signature="test1()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-21T09:50:23 IST" name="test1" finished-at="2021-11-21T09:50:25 IST" duration-ms="1702" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-08T09:39:34 IST" name="TearDown" finished-at="2021-11-08T09:39:34 IST" duration-ms="99" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-21T09:50:25 IST" name="TearDown" finished-at="2021-11-21T09:50:25 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-08T09:39:34 IST" name="setUp" finished-at="2021-11-08T09:39:38 IST" duration-ms="3381" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-21T09:50:25 IST" name="setUp" finished-at="2021-11-21T09:50:29 IST" duration-ms="3512" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test2()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-08T09:39:38 IST" name="test2" finished-at="2021-11-08T09:39:39 IST" duration-ms="1049" status="PASS">
+        <test-method signature="test2()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-21T09:50:29 IST" name="test2" finished-at="2021-11-21T09:50:31 IST" duration-ms="1971" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-08T09:39:39 IST" name="TearDown" finished-at="2021-11-08T09:39:39 IST" duration-ms="86" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.LoginPageTest@28f3b248]" started-at="2021-11-21T09:50:31 IST" name="TearDown" finished-at="2021-11-21T09:50:31 IST" duration-ms="96" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
